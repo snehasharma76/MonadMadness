@@ -75,7 +75,7 @@ MIT License
 
 ## Contact
 
-For support or inquiries, please contact [Your Name] (snehasharma76@gmail.com).
+For support or inquiries, please contact(snehasharma76@gmail.com).
 
 ## Disclaimer
 
